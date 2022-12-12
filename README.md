@@ -6,7 +6,7 @@ Implementación de una aplicación móvil que permita el almacenamiento de infor
 
 Los datos que se van a almacenar son:
 
-- DATOS INFORMATIVOS
+**- DATOS INFORMATIVOS**
   - Nombre
   - Cédula
   - Miembros que conforman el núcleo familiar
