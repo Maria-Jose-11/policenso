@@ -22,3 +22,5 @@ A través del plugin de Geolocalización, podremos obtener diferentes datos prov
 
 Nota: Los datos son almacenados en una base de datos de Firebase
 
+LINK A YOUTUBE: https://youtu.be/n1p_PW8fztU
+
