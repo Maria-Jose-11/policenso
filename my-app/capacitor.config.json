@@ -1,0 +1,11 @@
+{
+  "appId": "com.example.app",
+  "appName": "policenso",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

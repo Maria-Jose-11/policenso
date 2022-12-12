@@ -1,0 +1,37 @@
+<ion-header>
+  <ion-toolbar color="primary" >
+    <ion-title class="ion-text-center">POLICENSO</ion-title>
+  </ion-toolbar>
+</ion-header>
+<br/>
+<ion-content>
+  <ion-img  style="width: y0px; height: 90px;"
+  src="https://www.ecuadorencifras.gob.ec/estadisticas/images/logo%20censo%20ecuador-01.png?crc=251941702" weight="20px" height="30px"></ion-img>
+  
+  <br>
+  <ion-item>
+    <ion-label position="floating"><b>Correo electrónico</b></ion-label>
+    <ion-input type="text" [(ngModel)]="email" name="email"></ion-input>
+  </ion-item>
+  <ion-item>
+    <ion-label position="floating"><b>Contraseña</b></ion-label>
+    <ion-input type="password" [(ngModel)]="password" name="password"></ion-input>
+  </ion-item>
+  <br/>
+
+  <ion-button color="primary" (click)="onSubmitLogin()" style="width: 260px;">
+    Iniciar sesión
+  </ion-button>
+  <p class="go-to-register">
+    ¿Aún no tienes una cuenta? 
+  
+    <ion-button color="primary" (click)="onSubmitSingUp()" >
+      Registrarse
+    </ion-button>
+  </p>
+  <p class="ion-text-center">
+    <br>
+    <br>
+    Creado por: Majo👩🏽
+  </p> 
+</ion-content>
