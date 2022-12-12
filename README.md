@@ -17,6 +17,7 @@ Los datos que se van a almacenar son:
 A través del plugin de Geolocalización, podremos obtener diferentes datos provenientes de la ubicación. En este caso obtendremos los siguientes datos: 
   - Latitud
   - Longitud
+  
 - **FOTO DE DOMICILIO**   
 
 
