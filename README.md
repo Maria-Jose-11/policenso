@@ -11,5 +11,8 @@ Los datos que se van a almacenar son:
   - Cédula
   - Miembros que conforman el núcleo familiar
  
-- 
+- **DATOS DE GEOLOCALIZACIÓN**
+  - Latitud
+  - Longitud
+- **FOTO DE DOMICILIO**   
 
